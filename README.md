@@ -10,6 +10,7 @@ This repository contains the Quartus project for lane detection using a Sobel-li
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Directory Structure](#directory-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
