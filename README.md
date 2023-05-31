@@ -1,3 +1,5 @@
+![University Logo](logo.jpg)
+
 # Image Processing: Sobel Filter | Lane Detection FPGA Project
 
 Legal project definition:
@@ -11,20 +13,21 @@ Team members:
 * Hasan Can Demir (21947157)
 * Ahmet Yusuf Şirin (21947641)
 
-![University Logo](logo.jpg)
 
 This repository contains the Quartus project for lane detection using a Sobel-like filter on an FPGA, specifically implemented on the Altera DE1-SoC development board. The project utilizes an OV7670 camera for video input and incorporates FuseSoC to streamline the continuous integration and deployment (CICD) processes.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Directory Structure](#directory-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Image Processing: Sobel Filter | Lane Detection FPGA Project](#image-processing-sobel-filter--lane-detection-fpga-project)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Directory Structure](#directory-structure)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
