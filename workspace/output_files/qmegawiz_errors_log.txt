@@ -1,0 +1,10 @@
+
+
+C:/Users/hasan/Desktop/proje/beylerSon/digital_cam_impl1/VGA_Audio_PLL.v
+
+May 30 09PM:44:36>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/hasan/Desktop/proje/beylerSon/digital_cam_impl1/VGA_Audio_PLL.cnxerr.
+
+Can't create the custom megafunction variation file(s)

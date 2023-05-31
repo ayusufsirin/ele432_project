@@ -1,0 +1,25 @@
+PLL_Name	my_altpll:Inst_vga_pll|altpll:altpll_component|my_altpll_altpll:auto_generated|generic_pll1~FRACTIONAL_PLL
+PLLJITTER	27
+PLLSPEmax	100
+PLLSPEmin	-100
+
+PLL_Name	my_altpll:Inst_vga_pll|altpll:altpll_component|my_altpll_altpll:auto_generated|generic_pll1~PLL_OUTPUT_COUNTER
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	my_altpll:Inst_vga_pll|altpll:altpll_component|my_altpll_altpll:auto_generated|generic_pll2~PLL_OUTPUT_COUNTER
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	VGA_Audio_PLL:PLL1|altpll:altpll_component|altpll_vml2:auto_generated|generic_pll1~FRACTIONAL_PLL
+PLLJITTER	53
+PLLSPEmax	100
+PLLSPEmin	-100
+
+PLL_Name	VGA_Audio_PLL:PLL1|altpll:altpll_component|altpll_vml2:auto_generated|generic_pll2~PLL_OUTPUT_COUNTER
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+

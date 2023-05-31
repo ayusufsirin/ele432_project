@@ -1,0 +1,32 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.numeric_std.all;
+use ieee.std_logic_arith.all;
+
+ENTITY FREQ_LOOKUP_TABLE IS
+		PORT( sel : IN STD_LOGIC_VECTOR(2	downto 0);
+				F : out STD_LOGIC_VECTOR(15 downto 0);
+				CLK: IN STD_LOGIC);
+END FREQ_LOOKUP_TABLE;
+
+ARCHITECTURE Structure OF FREQ_LOOKUP_TABLE IS
+		SIGNAL note : integer := 0;
+
+BEGIN
+	PROCESS(sel)
+	BEGIN
+	
+	CASE sel IS
+		when "001"=> note <= 1046; --C6		-130-C3
+		when "010"=> note <= 587; --D3		--D3 147
+		when "011"=> note <= 659; --E3		--E3	165
+		when "100"=> note <= 698; --F5		--F3  175
+		when "101"=> note <= 784; --G5		--G3  196
+		when "110"=> note <= 880; --A5		   --A3   220
+		when "111"=> note <= 988; --B5		--B3 247			
+		when others => note <= 0;
+		END CASE;
+
+		F <= conv_std_logic_vector(note, 16);
+	END PROCESS;
+END STRUCTURE;	

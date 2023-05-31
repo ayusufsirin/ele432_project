@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Tue May 30 23:08:17 2023
+Quartus Prime Version : 19.1.0 Build 670 09/22/2019 SJ Lite Edition
+Revision Name : digital_cam_impl1
+Top-level Entity Name : digital_cam_impl1
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 382
+Total pins : 87
+Total virtual pins : 0
+Total block memory bits : 1,576,960
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 2
+Total DLLs : 0
