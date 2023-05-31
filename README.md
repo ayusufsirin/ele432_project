@@ -116,7 +116,3 @@ Please ensure that your contributions adhere to the coding standards, and includ
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to modify, distribute, and use the code in this project for personal or commercial purposes. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to customize this README.md file based on your project's specific requirements. Include information about any additional tools, configurations, or setup procedures that may be necessary for the successful execution of your project.
