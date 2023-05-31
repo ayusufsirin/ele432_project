@@ -1,6 +1,6 @@
 # Lane Detection FPGA Project
 
-![Project Logo](logo.png)
+![Project Logo](logo.jpg)
 
 This repository contains the Quartus project for lane detection using a Sobel-like filter on an FPGA, specifically implemented on the Altera DE1-SoC development board. The project utilizes an OV7670 camera for video input and incorporates FuseSoC to streamline the continuous integration and deployment (CICD) processes.
 
